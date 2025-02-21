@@ -1,17 +1,19 @@
 # Bureau et Comité Directeur
 
-Le Bureau du **Club Effet de Fun** est composé de membres élus qui assurent le bon fonctionnement du club. Voici les membres actuels du Bureau et leur rôle.
+Le Bureau du **Club Effet de Fun** est composé de membres élus qui assurent le bon fonctionnement du club. 
+Voici les membres actuels du Bureau et leur rôle.
 
 ## Membres du Bureau :
 
 | Prénom    | Nom       | Email                         | Téléphone  | Rôle              |
-|-----------|-----------|-------------------------------|------------|-------------------|
-| Bernard   | Combes    | bernard.combes98@sfr.fr       | 0662057321 | Président         |
-| Emilie    | Pace      | emilie.pace@yahoo.fr          | 0786945262 | Vice-Présidente   |
-| Philippe  | Favrais   | philippe.favrais@gmail.com    | 0637741706 | Secrétaire        |
-| Léna      | Attias    | lenaattias@gmail.com          | 0621035456 | Vice-Secrétaire   |
-| Dominique | Forget    | domift09@outlook.fr           | 0616832708 | Trésorier         |
-| Vincent   | Combes    | vcomb31@sfr.fr                | 0674126460 | Vice-Trésorier    |
+|-----------|----------|------------------------------|------------|-------------------|
+| Bernard   | Combes   | bernard.combes98@sfr.fr      | 0662057321 | Président         |
+| Emilie    | Pace     | emilie.pace@yahoo.fr         | 0786945262 | Vice-Présidente   |
+| Philippe  | Favrais  | philippe.favrais@gmail.com   | 0637741706 | Secrétaire        |
+| Léna      | Attias   | lenaattias@gmail.com         | 0621035456 | Vice-Secrétaire   |
+| Dominique | Forget   | domift09@outlook.fr          | 0616832708 | Trésorier         |
+| Vincent   | Combes   | vcomb31@sfr.fr               | 0674126460 | Vice-Trésorier    |
+
 
 ## Fonctionnement du Bureau et du Comité Directeur  
 
@@ -32,7 +34,7 @@ Le Bureau du **Club Effet de Fun** est composé de membres élus qui assurent le
 | Léna         | Attias      | lenaattias@gmail.com       | 0621035456  |
 | Aurélien     |Loubet-Sounet| aurelien.loubet@gmail.com  | 0688022555  |
 | Bernard      | Combes      | bernard.combes98@sfr.fr    | 0662057321  |
-| Côme         | Raffara     | raffaracome@gmail.com      |             |
+| Côme         | Raffara     | raffaracome@gmail.com      | yxz         |
 | David        | Silverstand | dsilvertand@gmail.com      | 0652515545  |
 | Hugo         | Marty       | hugo.marty20@gmail.com     | 0687137729  |
 | Ismaël       | Vabre       | vabre.ismael@gmail.com     | 0629266294  |
