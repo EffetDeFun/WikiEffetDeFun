@@ -49,6 +49,6 @@ Le Bureau du **Club Effet de Fun** est composé de membres élus qui assurent le
 
 ### 🤝 **Participation et transparence**  
 - **Les réunions du Comité Directeur sont ouvertes** à tous les membres du club qui souhaitent y assister ou proposer des sujets de discussion.  
-- L'outil **[Trello](https://trello.com/b/i3rGooNC/board-effet-de-fun)** ou **[ClickUp](https://app.clickup.com/9015858729/v/f/90155179849/90153202285)** est utilisé pour suivre les actions et organiser les sujets à traiter.  
+- L'outil **[ClickUp](https://app.clickup.com/9015858729/v/f/90155179849/90153202285)** est utilisé pour suivre les actions et organiser les sujets à traiter.  
 
 
