@@ -3,6 +3,7 @@
 Le Bureau du **Club Effet de Fun** est composé de membres élus qui assurent le bon fonctionnement du club. Voici les membres actuels du Bureau et leur rôle.
 
 ## Membres du Bureau :
+
 | Prénom    | Nom       | Email                         | Téléphone  | Rôle              |
 |-----------|-----------|-------------------------------|------------|-------------------|
 | Bernard   | Combes    | bernard.combes98@sfr.fr       | 0662057321 | Président         |
